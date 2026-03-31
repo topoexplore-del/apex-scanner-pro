@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-03-31T20:32:43.861900Z",
+  "built_at": "2026-03-31T21:11:50.365474Z",
   "groups": {
     "🎯 Watchlist Core": [
       {
@@ -213,7 +213,7 @@
         "eps_gr": "Decl",
         "fund": 50.0,
         "sector": "Industrials",
-        "mktcap": "$331B",
+        "mktcap": "$332B",
         "target": 719.9,
         "upside": 7.9,
         "proj_conf": "Low",
@@ -1240,7 +1240,7 @@
         "eps_gr": "Mod",
         "fund": 58.0,
         "sector": "Financial Services",
-        "mktcap": "$93B",
+        "mktcap": "$92B",
         "target": 8.96,
         "upside": 13.9,
         "proj_conf": "Med",
@@ -3412,7 +3412,7 @@
         "daily": 0.43,
         "5d": -1.07,
         "20d": -5.15,
-        "pe": 9.9,
+        "pe": 10.0,
         "pe_gr": "Cheap",
         "roe": null,
         "roe_gr": "N/A",
@@ -4127,7 +4127,7 @@
         "daily": -0.47,
         "5d": -2.32,
         "20d": -9.36,
-        "pe": 15.8,
+        "pe": 15.7,
         "pe_gr": "Fair",
         "roe": null,
         "roe_gr": "N/A",
